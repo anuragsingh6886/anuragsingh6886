@@ -1,4 +1,5 @@
-<h1 align="left" style="color:red" >Hey There !</h1>
+:india:
+<h1 align="left" style="color:red" >Hey There !:wave:</h1>
 <p style="font-family:'Courier New'" >My name is <b>Anurag Singh</b>, and here are a few things that I'm working on:</p>
 
 <ul>
