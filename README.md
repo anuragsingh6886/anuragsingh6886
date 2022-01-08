@@ -1,6 +1,5 @@
-<h1 align="left">Hey There !</h1>
-
-<p>My name is Anurag Singh, and here are a few things I'm working on:</p>
+<h1 align="left" style="color:red" >Hey There !</h1>
+<p style="font-family:'Courier New'" >My name is <b>Anurag Singh</b>, and here are a few things I'm working on:</p>
 
 <ul>
   <li>Front End Development</li>
@@ -44,6 +43,7 @@
 <p align="center">
 https://www.iotcreations.in
 </p>
+
 <!---
 anuragsingh6886/anuragsingh6886 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
