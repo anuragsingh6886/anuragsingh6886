@@ -1,6 +1,6 @@
 
 <h2 align="left" style="color:red" >Hey, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p style="font-family:'Courier New'" >My name is <b>Anurag Singh</b>, and here are a few things that I'm working on:</p>
+<p style="display: block; font-size: medium; background-color: bisque; color: blueviolet;" >My name is <b>Anurag Singh</b>, and here are a few things that I'm working on:</p>
 
 <ul>
   <li>Front End Development</li>
