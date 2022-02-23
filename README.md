@@ -1,7 +1,7 @@
 
 
 <h2 align="left">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p>My name is <b>Anurag Singh</b>, and here are a few things that I'm working on:</p>
+<p>My name is <b> Anurag Singh </b>, I am a cooperative, energetic, self-motivated, and skilled person believes in an optimistic technology-driven future.These are some technologies, programming languages, libraries, and frameworks that I am familiar with : </p>
 
 <ul>
   <li><b>Front End : </b></li>
