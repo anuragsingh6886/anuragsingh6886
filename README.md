@@ -1,12 +1,21 @@
 
-<h2 align="left" style="color:red" >Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+
+<h2 align="left">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p>My name is <b>Anurag Singh</b>, and here are a few things that I'm working on:</p>
 
 <ul>
-  <li>Front End Development</li>
-  <li>JavaScript and It's Librabry</li>
-  <li>Embedded System</li>
-  <li>Data Structure & Algo.</li>
+  <li><b>Front End : </b></li>
+  <td> - HTML, CSS & JavaScript</td>
+  <br>
+  <td> - React & Redux</td>
+  <br>
+  <li><b>Node.JS</b></li>
+  <li><b>Using Java : </b></li>
+   <td> - Data Structure</td>
+  <br>
+  <td> - Algorithms</td>
+  <br>
+  <li><b>Embedded System</b></li>
 </ul>
 <hr>
 <h3 align="left">Reach Out :-</h3>
