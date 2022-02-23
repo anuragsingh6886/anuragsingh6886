@@ -51,11 +51,9 @@
 
 
 ---
-<h4 align="center"> © 2022 Anurag Singh, all rights reserved. Made with ❤️ for a better web. </h4>
-<p align="center">
-https://www.iotcreations.in
-</p>
-
+<h4 align="center"> © 2022 Anurag Singh, all rights reserved. Made with ❤️ for a better internet. </h4>
+<p align="center" >
+https://anuragsingh6886.github.io/my-responsive-resume/</p>
 <!---
 anuragsingh6886/anuragsingh6886 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
