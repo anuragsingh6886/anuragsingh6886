@@ -9,7 +9,7 @@
   <br>
   <td> - React & Redux</td>
   <br>
-  <li><b>Node.JS</b></li>
+  <li><b>Node.JS, Mongo DB, SQL</b></li>
   <li><b>Using Java : </b></li>
    <td> - Data Structure</td>
   <br>
@@ -20,7 +20,7 @@
 <hr>
 <h3 align="left">Reach Out :-</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/IOT_CreationsIn)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/anurags_me)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anuragsingh6886/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8)](https://codepen.io/anuragsingh6886)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/anurags_me/)
