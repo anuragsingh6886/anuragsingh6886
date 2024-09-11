@@ -1,2 +1,3 @@
-<p> - Passionate software developer with a focus on Web Development (Full Stack). Currently working as a Software Engineer at Cloud Odyssey.</p>
-<hr>
+<h4>Software Engineer with 2.5+ years of experience, working as a SFCC Developer at Cloud Odyssey.</h4>
+<p> - Passionate about building user-friendly web applications, with a focus on e-commerce development.</p>
+<p> - Skilled in debugging, problem-solving, and utilizing standardized methodologies for efficient development.</p>
