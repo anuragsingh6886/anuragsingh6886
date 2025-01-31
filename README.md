@@ -1,4 +1,5 @@
-<h4>Software Engineer with 3+ years of experience, working as a Fullstack Developer at Cloud Odyssey.</h4>
+<h4>Software Engineer with 3+ years of experience in building web applications and e-commerce platforms, working as a Fullstack Developer at Cloud Odyssey.</h4>
 <hr>
-<p> * Passionate about building user-friendly web applications, with a focus on e-commerce development.</p>
-<p> * Skilled in debugging, problem-solving, and utilizing standardized methodologies for efficient development.</p>
+<p> * Proficient in JavaScript, React.js, TypeScript, Next.js, and SFCC (SFRA).</p>
+<p> * Skilled in API integrations, state management (Redux, Zustand), and UI frameworks (Tailwind CSS, Material UI).</p>
+<p> * Experienced in SFCC development, including BM and third-party integrations. Focused on performance, scalability, and user experience.</p>
